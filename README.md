@@ -1,2 +1,2 @@
 # torchnode
-PyTorch model server.
+PyTorch model server for Linux.
